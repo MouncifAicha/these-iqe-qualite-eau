@@ -1,1 +1,2 @@
 Ce projet de Thése étudie la qualité de l'eau dans une zone X à l'aide de l'Indice de Qualité des Eaux (IQE).
+Donnée ajoutée : PH mesuré = 7.2
