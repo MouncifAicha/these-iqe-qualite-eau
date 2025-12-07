@@ -1,1 +1,1 @@
-Ce projet étudie la qualité des eaux dans une zone X à l'aide de l'Indice de Qualité des Eaux (IQE).
+Ce projet de Thése étudie la qualité de l'eau dans une zone X à l'aide de l'Indice de Qualité des Eaux (IQE).
